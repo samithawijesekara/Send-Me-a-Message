@@ -1,7 +1,7 @@
 # Contact-Me
 Send me a message with using Javascript form. And I will reply to your message.<br><br>
 
-💻😍 Online Demo : https://send-me-a-message.netlify.app/
+💻😍 You can use this link to send me a message : https://send-me-a-message.netlify.app/
 
 ### Table of Content
 -01 [What is this?](#What)</br>
