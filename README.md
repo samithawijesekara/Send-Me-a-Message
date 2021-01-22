@@ -31,7 +31,7 @@ Just filling the form fields and click **send message** button.<br><br>
 If the message is successfully sent you will get the alert.<br><br>
 <img src="img/b.JPG"><br><br>
 
-If you send a message to me I can seen your message on Google sheet and I'll reply soon.❤️😍
+If you sent a message to me I can see your message on Google sheet and I'll reply soon to your email address which you provide me in the form.❤️😍
 <img src="img/c.JPG"><br><br>
 
 
