@@ -6,6 +6,6 @@ form.addEventListener('submit', e => {
             method: 'POST',
             body: new FormData(form)
         })
-        .then(response => alert("Thanks for Contacting me..! I Will Contact You Soon..."))
-        .catch(error => console.error('Error!', error.message))
+        .then(response => window.location.replace("send.html"))
+        .catch(error => window.location.replace("error.html"))
 })
