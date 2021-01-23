@@ -28,8 +28,11 @@ This is a contact form for anyone who looking for contacting me.😉😎<br>
 Just filling the form fields and click **send message** button.<br><br>
 <img src="img/a.JPG"><br><br>
 
-If the message is successfully sent you will get the alert.<br><br>
+If the message is successfully sent you will get the **Message Send Successfully** window.<br><br>
 <img src="img/b.JPG"><br><br>
+
+If the message is didn't send you will get the Something going wrong..!!window.<br><br>
+<img src="img/d.JPG"><br><br>
 
 If you sent a message to me I can see your message on Google sheet and I'll reply soon to your email address which you provide me in the form.❤️😍
 <img src="img/c.JPG"><br><br>
