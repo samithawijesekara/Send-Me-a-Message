@@ -1,7 +1,7 @@
 # Contact-Me
-Send me a message with Google Sheets by using Javascript form<br><br>
+Send me a message with using Javascript form. And I will reply to your message.<br><br>
 
-💻😍 Online Demo : 
+💻😍 You can use this link to send me a message : https://send-me-a-message.netlify.app/
 
 ### Table of Content
 -01 [What is this?](#What)</br>
@@ -20,16 +20,19 @@ This is a contact form for anyone who looking for contacting me.😉😎<br>
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 - Google Sheets
 
 ## How to use this?<a name="How"/>
 
-Just filling the form fields and click **send message** button.<br>
-<img src="img/a.PNG">
+Just filling the form fields and click **send message** button.<br><br>
+<img src="img/a.JPG"><br><br>
 
-If the message is successfully sent you will get the alert.<br>
-<img src="img/b.PNG">
+If the message is successfully sent you will get the alert.<br><br>
+<img src="img/b.JPG"><br><br>
 
+If you sent a message to me I can see your message on Google sheet and I'll reply soon to your email address which you provide me in the form.❤️😍
+<img src="img/c.JPG"><br><br>
 
 
 
