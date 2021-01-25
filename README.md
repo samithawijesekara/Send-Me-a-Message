@@ -1,6 +1,8 @@
 # Contact-Me
 Send me a message with using Javascript form. And I will reply to your message.<br><br>
 
+![Code quality score](https://www.code-inspector.com/project/18188/score/svg) ![Quality grade](https://www.code-inspector.com/project/18188/status/svg)
+
 💻😍 You can use this link to send me a message : https://send-me-a-message.netlify.app/
 
 ### Table of Content
