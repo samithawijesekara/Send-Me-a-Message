@@ -1,4 +1,4 @@
-# Contact-Me
+# Send Me a Message
 Send me a message with using Javascript form. And I will reply to your message.<br><br>
 
 ![Code quality score](https://www.code-inspector.com/project/18188/score/svg) ![Quality grade](https://www.code-inspector.com/project/18188/status/svg)
